@@ -11,7 +11,7 @@ pipeline{
             
             steps {
                 
-                echo "sleep 10"
+                echo "well-come"
             }
         }
         
